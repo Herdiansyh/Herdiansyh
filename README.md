@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 ##### Connect to
 
-![https://www.instagram.com/hrdian00s?utm_source=ig_web_button_share_sheet&igsh=MXBtaHp2NDJmcWgwcw==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/moh-herdiansyah-171868341/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.tiktok.com/@hrdiyann?is_from_webapp=1&sender_device=pc](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hrdian00s?utm_source=ig_web_button_share_sheet&igsh=MXBtaHp2NDJmcWgwcw==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh-herdiansyah-171868341/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hrdiyann?is_from_webapp=1&sender_device=pc)
 
 #### Play with Me
 
