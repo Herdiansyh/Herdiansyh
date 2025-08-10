@@ -14,15 +14,10 @@ Here are some ideas to get you started:
 -->
 <!-- Header Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Herdiansyah;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Herdiansyah;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<!-- Avatar -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" style="border-radius:50%" />
-</p>
-
-<!-- ![bannerHerdi](img/github-header-banner.png) -->
+![bannerHerdi](img/github-header-banner.png)
 
 - 📫 How to reach me: herherdi45@gmail.com
 
